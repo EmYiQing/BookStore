@@ -1,2 +1,3 @@
-# BookStore
-Instead of using the framework, we just use Servlet, JSP, Tomcat, JSTL, C3P0 to complete an online bookstore project.
+# 网上书城
+- 使用JSP+Servlet+MySQL实现
+- 可用于毕设、实验等
